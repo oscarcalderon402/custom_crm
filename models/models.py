@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from typing_extensions import Required
+
 from odoo import models, fields, api
 
 
